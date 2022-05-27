@@ -11,3 +11,5 @@ trigger ProjectTrigger on Project__c (after update) {
     }        
     
 }
+
+//ok so this code is terrible... the call out should happen only after the loop collect elements from the new list and old map that are valid but you get the point that the project trigger is missing and needs to be added
