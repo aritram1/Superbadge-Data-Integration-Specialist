@@ -19,3 +19,11 @@ This repository is for solving all the problems and pass all the challenges in t
 * Invoking a `queueable` Apex class
 * Apex testing with `mock service` calls
 * Configuring a Salesforce Connect `datasource`, `external object` and `relationship`
+
+
+
+
+
+Credit : The repo was initially forked from a repo by razu0031, that seems deleted now. Keep sending PR's in case you want to improve this public repo.
+
+Thanks for checking in! 👍	
